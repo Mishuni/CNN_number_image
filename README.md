@@ -10,7 +10,7 @@ Image Processing (collect_image funtion)
  
 3. Gaussian smoothing (removing noise)
  
-4. Thresholding (make a region of number light)
+4. Thresholding (make a region of number bright)
  
 5. Extracting the region of number from the image
 
