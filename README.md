@@ -9,10 +9,12 @@ Image Processing (collect_image funtion)
 2. Convert the Input image to Gray Image 
  
 3. Gaussian smoothing (removing noise)
+
+4. Histogram equalization (contrast enhancement)
  
-4. Thresholding (make a region of number bright)
+5. Thresholding (make a region of number bright)
  
-5. Extracting the region of number from the image
+6. Extracting the region of number from the image
 
 
 AI Training (CNN algorithm)
