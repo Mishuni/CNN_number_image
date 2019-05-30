@@ -1,6 +1,6 @@
 # CNN_number_image
 AI that can classify the number 0~9 from the image by training through CNN algorithm
-and print sum ot the numbers in image
+and print sum ot numbers in an image
 
 
 # Image Processing (collect_image funtion)
