@@ -20,7 +20,7 @@ Image Processing (collect_image funtion)
 
 AI Training (CNN algorithm)
 
-/n
+
 
 Explanation of files
 
