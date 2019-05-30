@@ -3,7 +3,7 @@ AI that can classify the number 0~9 from the image by training through CNN algor
 and print sum ot the numbers in image
 
 
-Image Processing (collect_image funtion)
+# Image Processing (collect_image funtion)
 
 1. Input image
 
@@ -18,11 +18,11 @@ Image Processing (collect_image funtion)
 6. Extracting the region of number from the image
 
 
-AI Training (CNN algorithm)
+# AI Training (CNN algorithm)
 
 
 
-Explanation of files
+# Explanation of files
 
 main.py  - interface that connect user with inner program
 
@@ -44,5 +44,5 @@ number_data.dat - a set of data image
 number_label.dat - a set of target value 
 
 
-REFERENCES 
+# REFERENCES 
 [1] PyTorch를 활용한 머신러닝, 딥러닝 철저 입문/ 코이즈미 사토시/ 위키북
