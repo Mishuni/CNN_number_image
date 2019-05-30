@@ -32,16 +32,17 @@ Extract_number.py - the class that have a function named data_collect, which ext
 
 AnnClass.py	- this class is a CNN
 
-cnn_test_model4.dat - this is the trained CNN from CNN_TEST_with_myimage.py
+cnn_test_model4.pth - this is the trained CNN from CNN_TEST_with_myimage.py
 
 CNN_TEST_with_myimage.py	- the process of training CNN with MNIST data plus my data
 
-cnn_test_model_r1.dat - this is the trained CNN from CNN_TEST_with_rotation_image.py
+cnn_test_model_r1.pth - this is the trained CNN from CNN_TEST_with_rotation_image.py
 
 CNN_TEST_with_rotation_image.py - 	the process of training CNN with rotated data
 
-number_data.dat - a set of data image 
-number_label.dat - a set of target value 
+number_data.txt - a set of data image 
+
+number_label.txt - a set of target value 
 
 
 # REFERENCES 
