@@ -1,5 +1,6 @@
 # CNN_number_image
 AI that can classify the number 0~9 from the image by training through CNN algorithm
+and print sum ot the numbers in image
 
 
 Image Processing (collect_image funtion)
@@ -19,6 +20,28 @@ Image Processing (collect_image funtion)
 
 AI Training (CNN algorithm)
 
+
+
+Explanation of files
+
+main.py  - interface that connect user with inner program
+
+AI_Number_function.py - this class have the function named 'AI_Number', which call the function of Extract_number and load the CNN and finally return the total sum of numbers
+
+Extract_number.py - the class that have a function named data_collect, which extracts number images from user image
+
+AnnClass.py	- this class is a CNN
+
+cnn_test_model4.dat - this is the trained CNN from CNN_TEST_with_myimage.py
+
+CNN_TEST_with_myimage.py	- the process of training CNN with MNIST data plus my data
+
+cnn_test_model_r1.dat - this is the trained CNN from CNN_TEST_with_rotation_image.py
+
+CNN_TEST_with_rotation_image.py - 	the process of training CNN with rotated data
+
+number_data.dat - a set of data image 
+number_label.dat - a set of target value 
 
 
 REFERENCES 
